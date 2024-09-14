@@ -3,12 +3,12 @@
 
 .test-font {
 
-color: #9D387E
+color: var(--dominantColor) !important;
 
 }
 
 .test-font-2 {
 
-    color: #9D387E
+    color: var(--dominantColor) !important;
     
     }
