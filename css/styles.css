@@ -10,3 +10,8 @@
 .fa-row-icon {font-size: 70px;
     color: #ffffff
 }
+
+
+.fa-row-icon:hover {
+transform: scale(1.1);
+}
