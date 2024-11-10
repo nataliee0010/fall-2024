@@ -59,3 +59,14 @@ background-color: white;
     top: 0px;
     text-decoration: none;
 }
+
+.blockquote {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-style:italic;
+    margin: 0.25em 0px;
+    padding: 0.35em 40px;
+    list-style: 1.45;
+    position: relative;
+    color: var(--accentColor) !important;
+}
