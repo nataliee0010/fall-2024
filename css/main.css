@@ -60,7 +60,7 @@ background-color: white;
     text-decoration: none;
 }
 
-.blockquote {
+blockquote {
     font-family: Georgia, serif;
     font-size: 18px;
     font-style:italic;
@@ -71,7 +71,7 @@ background-color: white;
     color: var(--accentColor) !important;
 }
 
-.blockquote::before {
+blockquote::before {
     display: block;
     padding-left: 10px;
     content: "";
@@ -80,5 +80,5 @@ background-color: white;
     left: -20px;
     top: -20px;
     color: var(--accentColor) !important;
-    
+
 }
